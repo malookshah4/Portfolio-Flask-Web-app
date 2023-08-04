@@ -1,0 +1,94 @@
+
+body {
+  background-color: #dadaca;
+}
+
+h1 {
+    font-size: 8.0em;
+    margin-left: 60px;
+    margin-top: 40px;
+}
+
+h4 {
+    margin-left: 70px;
+
+}
+h6 {
+font-family: 'Aclonica'
+}
+p {
+  font-size: 0.8em;
+}
+
+.highlight {
+color: red;}
+
+.main_navbar {
+    padding: 10px 15px;
+}
+
+.navbar-brand {
+    color: red;
+    font-family: 'Aclonica'
+}
+.navbar {
+   
+}
+
+.hire-me {
+    border-radius: 1;
+    border: solid red;
+}
+
+.line-break {
+    padding: 0px 0px;
+    margin: 1% 10%;
+    border-bottom: none;
+}
+
+.line-break2 {
+  border: line red 10px;
+  border-bottom: none;
+  margin: 0% 10%;
+
+}
+
+.main-container {
+        display: flex;
+        justify-content: space-between;
+
+    }
+
+.div-child-right {
+    margin-right: 150px;}
+
+.btm-container {
+    display: flex;
+
+}
+
+.social-media-links {
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+}
+
+.social-icon {
+    padding: 10px;
+}
+
+.contacts-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding-right: 50px;
+}
+
+.vertical-line {
+  width: 2px; /* Set the width of the vertical line */
+  height: 100%; /* Set the height of the vertical line */
+  background-color: #000; /* Set the color of the vertical line */
+  margin: 10px 0; /* Set the margin around the vertical line (adjust as needed) */
+
+}
